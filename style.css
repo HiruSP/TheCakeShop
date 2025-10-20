@@ -302,7 +302,7 @@ section {
     width: 15px;
 }
 
-::-webkit-slider-thumb {
+::-webkit-scrollbar-thumb {
     background-color: var(--main-color);
 }
 
