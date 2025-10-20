@@ -1,2 +1,2 @@
 # TheCakeShop
-This is a project done to practice front end development with HTML, CSS and JavaScript
+This is an ongoing project for practicing front-end development using HTML, CSS, and JavaScript.
